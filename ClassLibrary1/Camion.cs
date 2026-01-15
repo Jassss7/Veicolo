@@ -11,10 +11,10 @@ namespace ClassLibrary1
     {
         public int CapacitaCarico { get; set; }
 
-        public Camion(string targa, string marca, int kmPercorsi, float litriCarburanteConsumati, int numeroPosti) : base(
+        public Camion(string targa, string marca, int kmPercorsi, float litriCarburanteConsumati, int capacitaCarico) : base(
             targa, marca, kmPercorsi, litriCarburanteConsumati)
         {
-            CapacitaCarico = numeroPosti;
+            CapacitaCarico = capacitaCarico;
         }
         public override string GetDettagliCompleti()
         {
