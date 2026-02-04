@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary1", "ClassLibra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dizionario", "Dizionario\Dizionario.csproj", "{23E9EC1F-0769-4198-9246-CBE5D6BA21FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyedSbura", "KeyedSbura\KeyedSbura.csproj", "{90FAB076-495D-41FC-B73D-3A189749FE18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{23E9EC1F-0769-4198-9246-CBE5D6BA21FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23E9EC1F-0769-4198-9246-CBE5D6BA21FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23E9EC1F-0769-4198-9246-CBE5D6BA21FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90FAB076-495D-41FC-B73D-3A189749FE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90FAB076-495D-41FC-B73D-3A189749FE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90FAB076-495D-41FC-B73D-3A189749FE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90FAB076-495D-41FC-B73D-3A189749FE18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
